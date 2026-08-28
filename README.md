@@ -28,6 +28,14 @@ Essays and other work: [dillenberg.net](https://dillenberg.net)
 
 ---
 
+### Language
+
+Many of these repos are in German, deliberately. The systems run where German is the
+working language ... a practice, a workshop, an office in NRW. Documentation that does
+not reach the people operating the thing is decoration.
+
+---
+
 ### Stack
 
 Python, FastAPI, Qdrant, A2A protocol. Whisper, Ollama. Hetzner, Cloudflare. PQC design against the NIST standards (ML-DSA).
