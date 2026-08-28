@@ -1,4 +1,4 @@
-# Dilles
+# Dilles aka Jeuner
 
 I build AI systems that stay on your own hardware. Local, decentralized, post-quantum ready.
 
