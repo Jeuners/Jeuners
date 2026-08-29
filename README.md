@@ -10,7 +10,7 @@ In IT since 1998. Based in Hilden, NRW, Germany.
 
 ### Current work
 
-**Sovereign Continuity** ... umbrella for autonomous AI swarms that run without a cloud dependency. Identity and trust never leave the machine. Local inference on dual RTX 3090.
+**Sovereign Continuity** ... umbrella for autonomous AI swarms that run without a cloud dependency. Identity and trust never leave the machine. Local inference on Silicon Metal and NVidia.
 
 **[fonagent-one](https://github.com/Jeuners/fonagent-one)** ... an on-prem AI phone agent for a general practice. Takes the call, transcribes locally, sorts the request into appointment, prescription, referral or emergency, and files it structured. No patient data leaves the box. Whisper.cpp, Ollama with Qwen, FreeSWITCH, own live dashboard.
 
