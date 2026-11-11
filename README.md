@@ -1,45 +1,25 @@
-# Dilles aka Jeuner
+# H.G.O. Dillenberg
 
-I build AI systems that stay on your own hardware. Local, decentralized, post-quantum ready.
+KI- und Digital-Coach aus Hilden. IT-Praxis seit 1998.
 
-In IT since 1998. Based in Hilden, NRW, Germany.
-
-**Working principle:** build technology the way it will need to work in 2030, not the way it happens to work in 2026.
+Ich bringe Teams und Auszubildenden bei, KI und digitale Werkzeuge sicher und sinnvoll zu nutzen: verständlich erklärt, vor Ort und mit Blick auf den Datenschutz.
 
 ---
 
-### Current work
+### Projekte
 
-**Sovereign Continuity** ... umbrella for autonomous AI swarms that run without a cloud dependency. Identity and trust never leave the machine. Local inference on Silicon Metal and NVidia.
+**[readpace](https://github.com/Jeuners/readpace)** prüft, ob Texte in Erklärvideos lange genug zu lesen sind, und passt das Timing der Szenen an echte Lesegeschwindigkeiten an.
 
-**fonagent-one** ... an on-prem AI phone agent for a general practice. Takes the call, transcribes locally, sorts the request into appointment, prescription, referral or emergency, and files it structured. No patient data leaves the box. Whisper.cpp, Ollama with Qwen, FreeSWITCH, own live dashboard.
-
-**logpy** ... the public backbone that ties the pieces together.
+**[Time Is Not Metadata](https://github.com/Jeuners/Time_Dilation_in_LLM_Agent_Systems)** ist ein Arbeitspapier über messbare Zeitstempel und Reaktionszeiten in KI-Agenten-Systemen.
 
 ---
 
-### Writing
+### Arbeitsweise
 
-Notes, working logs and longer arguments live here:
-**[github.com/Jeuners/logbuch](https://github.com/Jeuners/logbuch)** ... articles in German, discussion in the repo.
-Subscribe without an account: [releases.atom](https://github.com/Jeuners/logbuch/releases.atom)
-
-Essays and other work: [dillenberg.net](https://dillenberg.net)
+- KI als Werkzeug im Alltag: Schreiben, Recherche, Programmieren, Erklärvideos.
+- Vertrauliches bleibt im Haus: wo nötig mit KI-Modellen auf eigener Hardware.
+- Jedes Ergebnis wird geprüft. Die Verantwortung bleibt beim Menschen.
 
 ---
 
-### Language
-
-Many of these repos are in German, deliberately. The systems run where German is the
-working language ... a practice, a workshop, an office in NRW. Documentation that does
-not reach the people operating the thing is decoration.
-
----
-
-### Stack
-
-Python, FastAPI, Qdrant, A2A protocol. Whisper, Ollama. Hetzner, Cloudflare. PQC design against the NIST standards (ML-DSA).
-
----
-
-<sub>Digital artist as much as engineer. The interesting problems sit where those two overlap.</sub>
+Mehr über mich und eine Arbeitsprobe: **[dillenberg.net](https://dillenberg.net)**
